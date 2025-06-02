@@ -1,1 +1,1 @@
-# Simple-profile-page
+# Simple profile page
